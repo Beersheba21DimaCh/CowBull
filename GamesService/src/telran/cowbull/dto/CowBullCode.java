@@ -1,0 +1,5 @@
+package telran.cowbull.dto;
+
+public enum CowBullCode {
+	OK, USER_EXSITS, USER_NOT_EXISTS, GAME_NOT_FINISHED, GAME_NOT_EXISTS, GAME_FINISHED, COMPETITION_NOT_EXISTS
+}
